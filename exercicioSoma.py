@@ -1,4 +1,4 @@
-print("Exercicio para soma de dois números Inteiros.")
-num1 = int(input("Entre com o primeiro número:"))
-num2 = int(input("Entre com o segundo número:"))
-print("A soma é %i" %(num1 + num2))
+print("Exercicio de para Calcular a média de números Quebrados.")
+num1 = float(input("entre com o primeiro número não inteiro:"))
+num2 = float(input("entre com o segundo número não inteiro:"))
+print("O resultado da soma é %1.2f" %(num1 + num2))
